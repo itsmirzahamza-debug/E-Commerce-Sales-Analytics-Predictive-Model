@@ -15,4 +15,4 @@ A **Random Forest Classifier** was trained to predict high vs. low customer sati
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ecommerce-sales-analytics.git](https://github.com/YOUR_USERNAME/ecommerce-sales-analytics.git)
+   git clone [https://github.com/itsmirzahamza/ecommerce-sales-analytics.git](https://github.com/YOUR_USERNAME/ecommerce-sales-analytics.git)
